@@ -27,7 +27,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: rushabhvyasr@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rushabhvyas)  
 - 🐙 [GitHub](https://github.com/RushabhDangrushiya)  
 - 🐦 [Twitter @mavrik_13](https://twitter.com/mavrik_13)  
 
